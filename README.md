@@ -6,7 +6,7 @@
 
 ## ⚙️ Getting Started
 
-> To run this project locally, you need to have Nodejs installed. Please refer to these [instructions](https://nodejs.org/en/download/package-manager) to set up Nodejs if you don't already have it. You can run `node --version` to confirm that Nodejs is installed.
+> To run this project locally, you need to have Nodejs version 18.17.0 (lts) installed. Please refer to these [instructions](https://nodejs.org/en/download/package-manager) to set up Nodejs if you don't already have it. You can run `node --version` to confirm that Nodejs is installed.
 
 ### 📚 Installation Steps
 
